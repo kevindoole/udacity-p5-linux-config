@@ -3,8 +3,8 @@ This project is nothing more than a readme file with some details for a project
 I have completed for the Udacity Full Stack Developer Nanodegree.
 
 ## Server details
-SSH access: 52.37.170.233:2200
-Hosted application: http://ec2-52-37-170-233.us-west-2.compute.amazonaws.com/
+- SSH access: 52.37.170.233:2200
+- Hosted application: http://ec2-52-37-170-233.us-west-2.compute.amazonaws.com/
 
 ## Configuration changes
 - An account called `grader` was added, and given sudo privilege.
